@@ -1,4 +1,5 @@
 hello welcome to git
 hai
 hello
-how are you
+fourth line deleted
+
