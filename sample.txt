@@ -2,3 +2,4 @@ hello welcome to git
 hai
 hello
 how are you
+how r u doing
