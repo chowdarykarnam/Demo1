@@ -1,5 +1,11 @@
 hello welcome to git
 hai
 hello
+<<<<<<< HEAD
 how are you
 how r u doing
+new kine added
+=======
+fourth line deleted
+fifth line added
+>>>>>>> Dev
